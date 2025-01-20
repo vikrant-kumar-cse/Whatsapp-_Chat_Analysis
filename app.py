@@ -3,7 +3,6 @@ from io import StringIO
 import matplotlib.pyplot as plt
 import seaborn as sns
 from fontTools.varLib.instancer import verticalMetricsKeptInSync
-from mpl_toolkits.mplot3d.proj3d import rotation_about_vector
 import helpers  # Import only helper functions, no variables!
 
 import preprocessor  # Custom module to preprocess WhatsApp chat data

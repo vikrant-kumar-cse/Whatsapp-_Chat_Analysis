@@ -6,4 +6,4 @@ wordcloud
 pandas
 emoji
 preprocessor
-collections
+Python 3.8.10

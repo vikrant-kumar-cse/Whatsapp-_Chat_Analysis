@@ -260,7 +260,7 @@ if st.button("Help"):
     )
 # Additional footer for added engagement
 st.markdown(
-    '<div class="animated-footer">Analyse Your Whatsapp Chat With Easy Way!</div>',
+    '<div class="animated-footer">Designed and Developed by Vikrant Kumar</div>',
     unsafe_allow_html=True
 )
 
